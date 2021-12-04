@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\hnaym\Desktop\T_head_data\nexys_video\softmax_nexysvideo\sdk\projects\examples\spi_sd\CDK\wujian100_open-hello_world.cdkws">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\hnaym\Desktop\T_head_data\nexys_video\softmax_nexysvideo\sdk\projects\examples\spi_sd\CDK\wujian100_open-hello_world.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\wujian100\wujian100_open-master\wujian100_open-master\sdk\projects\examples\spi_sd\main.c" Name="FileName"/>
+      <int Value="119" Name="FirstVisibleLine"/>
+      <int Value="125" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\hnaym\Desktop\T_head_data\nexys_video\softmax_nexysvideo\sdk\csi_driver\wujian100_open\wj_dmac_v2.c" Name="FileName"/>
+      <int Value="7" Name="FirstVisibleLine"/>
+      <int Value="11" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

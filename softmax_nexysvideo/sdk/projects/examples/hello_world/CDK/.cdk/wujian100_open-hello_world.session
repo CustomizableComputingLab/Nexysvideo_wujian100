@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\hnaym\Desktop\T_head_data\nexys_video\softmax_nexysvideo\sdk\projects\examples\hello_world\CDK\wujian100_open-hello_world.cdkws">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\hnaym\Desktop\T_head_data\nexys_video\softmax_nexysvideo\sdk\projects\examples\hello_world\CDK\wujian100_open-hello_world.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray"/>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

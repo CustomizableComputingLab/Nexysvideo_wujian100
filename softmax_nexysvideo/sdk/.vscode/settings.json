@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "drv_gpio.h": "c",
+        "ff.h": "c",
+        "vs1053.h": "c",
+        "io.h": "c",
+        "drv_spi.h": "c",
+        "drv_usi_spi.h": "c",
+        "diskio.h": "c",
+        "soc.h": "c",
+        "wj_usi_spi.h": "c",
+        "csi_config.h": "c",
+        "stdio.h": "c"
+    },
+    "restructuredtext.confPath": ""
+}
